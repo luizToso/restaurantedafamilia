@@ -1,2 +1,0 @@
-
-alert("FALA VITÃO!!, rs");
